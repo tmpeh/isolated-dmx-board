@@ -1,0 +1,37 @@
+CERN Open Hardware Licence Version 2 - Permissive
+Copyright (c) 2026 tmpeh
+
+Link: https://spdx.org/licenses/CERN-OHL-P-2.0.html
+
+1. PREAMBLE
+Knowledge in science and technology advanced through the sharing of ideas
+and collaboration. The CERN Open Hardware Licence Version 2 - Permissive
+("CERN-OHL-P") is intended to facilitate the sharing of hardware designs
+("Designs") and the products based on them ("Products").
+
+2. APPLICABILITY
+2.1 This Licence applies to any Design or Product which the Licensor
+    releases under this Licence.
+2.2 The Licensor grants the Licensee a worldwide, royalty-free,
+    non-exclusive, perpetual licence to use, copy, modify, and distribute
+    the Design and to manufacture, use, and sell Products based on the
+    Design, subject to the conditions of this Licence.
+
+3. CONDITIONS
+3.1 You may copy and distribute the Design or modified versions of the
+    Design, or make Products based on it, provided that:
+    a) You keep intact all copyright notices and notices referring to this
+       Licence.
+    b) You provide a copy of this Licence with the Design or Product.
+3.2 Modifications: You may modify the Design. If you distribute modified
+    versions, you are encouraged, but not obligated, to make the modified
+    source available under this Licence.
+
+4. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE DESIGN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE DESIGN OR THE USE OR OTHER
+DEALINGS IN THE DESIGN.

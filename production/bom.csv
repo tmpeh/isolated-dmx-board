@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3, C4, C5",0603,4,100nF,
+C8,0603,1,4.7uF,
+C9,0603,1,10uF,
+"D1, D2",SOT-23,2,SM712_SOT23,
+J1,Jack_XLR_Neutrik_NC3MAAH_Horizontal,1,Conn_01x03_Socket,
+J2,Jack_XLR_Neutrik_NC3FAAH_Horizontal,1,Conn_01x03_Socket,
+J3,JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical,1,Conn_01x04_Pin,
+"J4, J5",JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical,2,Conn_01x03_Pin,
+"R1, R2",0603,2,10k,
+U4,PWRM-TH_B0505S-1WR3,1,B0505S-1WR3_C7465178,C7465178
+"U6, U7",SOIC-8_3.9x4.9mm_P1.27mm,2,MAX485E,
+U9,SOIC-8_3.9x4.9mm_P1.27mm,1,ADuM1201AR,
